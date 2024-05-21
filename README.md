@@ -1,4 +1,4 @@
-I. Objective of the assignment: to build a collection of requests (.json) in Postman based on the described documentation, using the obtained collection to reach the “Policy Calculation” stage in the Test Insurance Company and get the premium. 
+I. Build a collection of requests (.json) in Postman based on the described documentation, using the obtained collection to reach the “Policy Calculation” stage in the Test Insurance Company and get the premium. 
 For this purpose it is necessary to:
 1. Pass authentication by getting a token;
 2. Create a driver (or more than one), policyholder, owner and car;
